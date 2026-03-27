@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3:*)",
+      "Bash(/Users/ben/Projects/image_coord_selection/.venv/bin/pip install:*)",
+      "Bash(/Users/ben/Projects/image_coord_selection/.venv/bin/python -c \"import PIL; print\\('ok'\\)\")",
+      "Bash(/Users/ben/Projects/image_coord_selection/.venv/bin/pip freeze:*)"
+    ]
+  }
+}
